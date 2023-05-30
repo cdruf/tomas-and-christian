@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+pulp
+
+folium # For the graph
+geopy
